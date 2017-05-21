@@ -4,6 +4,11 @@
 
 }
 
+#project {
+margin: 100px auto;
+}
+
+
 .contact {
   padding: 25px 0 310px 0;
   background: url(img/contactmosman.jpg) no-repeat center center fixed;
