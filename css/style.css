@@ -11,7 +11,7 @@ margin: 100px auto;
 
 .contact {
   padding: 25px 0 310px 0;
-  background: url('img/contactmosman.jpg') no-repeat center center fixed;
+  background: url("contactmosman.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
