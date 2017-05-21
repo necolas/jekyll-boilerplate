@@ -1,7 +1,5 @@
 .center-block {
-
   margin: 50px auto;
-
 }
 
 #project {
@@ -11,7 +9,7 @@ margin: 100px auto;
 
 .contact {
   padding: 25px 0 310px 0;
-  background: url("contactmosman.jpg") no-repeat center center fixed;
+  background: url("http://res.cloudinary.com/liberationfront/image/upload/v1495403215/contactmosman_eyn1xn.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
