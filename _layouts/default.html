@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
+{% include head.html %}
 
-        {{ content }}
-
-    </body>
+<body>
+  {% include header.html %}
+  {% include over.html %}
+  {% include werk.html %}
+  {% include page_content.html %}
+  {% include contact.html %}
+  {% include footer.html %}
+  {% include js.html %}
+</body>
 </html>
