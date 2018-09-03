@@ -24,7 +24,7 @@ by Daniel McGraw.
 ### _config.yml
 
 This is where you will be putting your Jekyll configuration options. If this
-file is omitted Jekyll will use its defualts to build your site. You can find
+file is omitted Jekyll will use its defaults to build your site. You can find
 the configuration options and default configuration
 [here](https://github.com/mojombo/jekyll/wiki/configuration).
 
@@ -47,10 +47,10 @@ This is the base post template.
 ### _posts
 
 This folder is where all the posts are stored. Notice the naming convention
-that is used. You will want to name your files with the the publish date
+that is used. You will want to name your files with the publish date
 preceeding the posts title all seperated by dashes
 (Year-Month-Day-Title-Of-The-Post.md). The post date that you see is pulled
-straight from this filename so make sure you lable your files right.
+straight from this filename so make sure you label your files right.
 
 #### 1970-01-01-placeholder-post.md
 
@@ -63,5 +63,5 @@ variables. You can also specify custom variables in the YAML Front Matter.
 
 ### index.html
 
-This is used to render the site's index. It is essntially a post loop wrapped
+This is used to render the site's index. It is essentially a post loop wrapped
 in your base layout.
